@@ -2,7 +2,7 @@
 
 Public binary releases for the FMS MAVLink client agent.
 
-`fms-mavlink-agent` connects MAVLink-compatible autopilots to FMS.  
+`fms-mavlink-agent` connects MAVLink-compatible autopilots to https://rhumb.kz/ FMS.  
 Tested with ArduPilot. The binary inside release archives is named `fms-drone-agent`.
 
 ## Downloads
