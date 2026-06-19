@@ -14,12 +14,18 @@ https://github.com/rhumb-fms/mavlink-client/releases
 Each release contains:
 
 - `manifest.json`
-- platform archives, for example `fms-mavlink-agent-v0.2.0-linux-x86_64.tar.gz`
+- platform archives, for example `fms-mavlink-agent-v0.4.0-linux-x86_64.tar.gz`
 - `.sha256` checksum files
+
+## Version Support
+
+Clients older than `v0.4.0` are deprecated. Please use `v0.4.0` or newer for
+new installations and support requests.
 
 ## Linux Example
 
 ```bash
-tar xzf fms-mavlink-agent-v0.2.0-linux-x86_64.tar.gz
+tar xzf fms-mavlink-agent-v0.4.0-linux-x86_64.tar.gz
 chmod +x fms-drone-agent
 ./fms-drone-agent --version
+```
